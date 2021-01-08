@@ -1,0 +1,11 @@
+.Welcome{
+    width:100%;
+    text-align: center;
+    height:30px;
+    font-size: 26px;
+    color:#ddd;
+    margin-top: 70px;
+}
+.user{
+    color:#000;
+}
